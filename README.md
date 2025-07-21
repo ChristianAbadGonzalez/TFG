@@ -4,6 +4,7 @@ Herramienta de Búsqueda y Análisis de Información Musical con Spotify
 Este proyecto da vida a una herramienta interactiva pensada para explorar y analizar canciones a través de los datos ofrecidos por la API pública de Spotify. Con una interfaz visual, clara e intuitiva, cualquier usuario puede descubrir información clave como el nombre de la canción, el artista, el álbum, la fecha de lanzamiento o el nivel de popularidad entre los oyentes de la plataforma.
 
 Pero esta herramienta va más allá de mostrar datos: busca ofrecer una experiencia que permita entender la música desde una mirada distinta. Más estructurada, más reflexiva… y quizá también más emocional.  
+
 🎧 Motivación
 La música está presente en casi todos los momentos importantes de nuestra vida. Nos acompaña, nos remueve por dentro y nos conecta con recuerdos, personas o lugares. Y, sin embargo, pocas veces nos detenemos a pensar en cómo está construida.
 
